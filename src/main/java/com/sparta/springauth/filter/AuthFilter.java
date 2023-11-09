@@ -1,6 +1,7 @@
 package com.sparta.springauth.filter;
 
 import com.sparta.springauth.entity.User;
+import com.sparta.springauth.jwt.JwtUtil;
 import com.sparta.springauth.repository.UserRepository;
 import io.jsonwebtoken.Claims;
 import jakarta.servlet.*;

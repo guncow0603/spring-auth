@@ -1,4 +1,4 @@
-package com.sparta.springauth.filter;
+package com.sparta.springauth.jwt;
 
 import com.sparta.springauth.entity.UserRoleEnum;
 import io.jsonwebtoken.*;
